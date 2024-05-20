@@ -9,6 +9,7 @@
     "453.c7fa92da.chunk.js.map": "/Niki2406/websample.git/static/js/453.c7fa92da.chunk.js.map"
   },
   "entrypoints": [
+    "index.html",
     "static/css/main.0a757702.css",
     "static/js/main.f6952bd0.js"
   ]
