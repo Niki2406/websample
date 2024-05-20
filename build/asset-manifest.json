@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Niki2406/internshipassignment-/static/css/main.0a757702.css",
+    "main.js": "/Niki2406/internshipassignment-/static/js/main.3607f62f.js",
+    "static/js/453.c7fa92da.chunk.js": "/Niki2406/internshipassignment-/static/js/453.c7fa92da.chunk.js",
+    "index.html": "/Niki2406/internshipassignment-/index.html",
+    "main.0a757702.css.map": "/Niki2406/internshipassignment-/static/css/main.0a757702.css.map",
+    "main.3607f62f.js.map": "/Niki2406/internshipassignment-/static/js/main.3607f62f.js.map",
+    "453.c7fa92da.chunk.js.map": "/Niki2406/internshipassignment-/static/js/453.c7fa92da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a757702.css",
+    "static/js/main.3607f62f.js"
+  ]
+}
