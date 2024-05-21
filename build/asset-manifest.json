@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Niki2406/websample.git/static/css/main.0a757702.css",
-    "main.js": "/Niki2406/websample.git/static/js/main.f6952bd0.js",
-    "static/js/453.c7fa92da.chunk.js": "/Niki2406/websample.git/static/js/453.c7fa92da.chunk.js",
-    "index.html": "/Niki2406/websample.git/index.html",
-    "main.0a757702.css.map": "/Niki2406/websample.git/static/css/main.0a757702.css.map",
-    "main.f6952bd0.js.map": "/Niki2406/websample.git/static/js/main.f6952bd0.js.map",
-    "453.c7fa92da.chunk.js.map": "/Niki2406/websample.git/static/js/453.c7fa92da.chunk.js.map"
+    "main.css": "/static/css/main.0a757702.css",
+    "main.js": "/static/js/main.53656960.js",
+    "static/js/453.c7fa92da.chunk.js": "/static/js/453.c7fa92da.chunk.js",
+    "index.html": "/index.html",
+    "main.0a757702.css.map": "/static/css/main.0a757702.css.map",
+    "main.53656960.js.map": "/static/js/main.53656960.js.map",
+    "453.c7fa92da.chunk.js.map": "/static/js/453.c7fa92da.chunk.js.map"
   },
   "entrypoints": [
-    "index.html",
     "static/css/main.0a757702.css",
-    "static/js/main.f6952bd0.js"
+    "static/js/main.53656960.js"
   ]
 }
